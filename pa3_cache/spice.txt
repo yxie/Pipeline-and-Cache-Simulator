@@ -1,0 +1,256 @@
+Cache Settings:
+	Split I- D-cache
+	I-cache size: 	8192
+	D-cache size: 	8192
+	Associativity: 	2
+	Block size: 	64
+	Write policy: 	WRITE BACK
+	Allocation policy: 	WRITE ALLOCATE
+processed 100000 references
+processed 200000 references
+processed 300000 references
+processed 400000 references
+processed 500000 references
+processed 600000 references
+processed 700000 references
+processed 800000 references
+processed 900000 references
+processed 1000000 references
+*** CACHE STATISTICS ***
+  INSTRUCTIONS
+  accesses:  782764
+  misses:    6590
+  miss rate: 0.008419
+  replace:   6462
+  DATA
+  accesses:  217237
+  misses:    3160
+  miss rate: 0.014546
+  replace:   3032
+  TRAFFIC (in words)
+  demand fetch:  156000
+  copies back:   18880
+Cache Settings:
+	Split I- D-cache
+	I-cache size: 	8192
+	D-cache size: 	8192
+	Associativity: 	2
+	Block size: 	64
+	Write policy: 	WRITE BACK
+	Allocation policy: 	WRITE NO ALLOCATE
+processed 100000 references
+processed 200000 references
+processed 300000 references
+processed 400000 references
+processed 500000 references
+processed 600000 references
+processed 700000 references
+processed 800000 references
+processed 900000 references
+processed 1000000 references
+*** CACHE STATISTICS ***
+  INSTRUCTIONS
+  accesses:  782764
+  misses:    6590
+  miss rate: 0.008419
+  replace:   6462
+  DATA
+  accesses:  217237
+  misses:    8638
+  miss rate: 0.039763
+  replace:   2726
+  TRAFFIC (in words)
+  demand fetch:  151104
+  copies back:   13624
+Cache Settings:
+	Split I- D-cache
+	I-cache size: 	8192
+	D-cache size: 	8192
+	Associativity: 	2
+	Block size: 	128
+	Write policy: 	WRITE BACK
+	Allocation policy: 	WRITE ALLOCATE
+processed 100000 references
+processed 200000 references
+processed 300000 references
+processed 400000 references
+processed 500000 references
+processed 600000 references
+processed 700000 references
+processed 800000 references
+processed 900000 references
+processed 1000000 references
+*** CACHE STATISTICS ***
+  INSTRUCTIONS
+  accesses:  782764
+  misses:    5073
+  miss rate: 0.006481
+  replace:   5009
+  DATA
+  accesses:  217237
+  misses:    4039
+  miss rate: 0.018593
+  replace:   3975
+  TRAFFIC (in words)
+  demand fetch:  291584
+  copies back:   36256
+Cache Settings:
+	Split I- D-cache
+	I-cache size: 	8192
+	D-cache size: 	8192
+	Associativity: 	2
+	Block size: 	128
+	Write policy: 	WRITE BACK
+	Allocation policy: 	WRITE NO ALLOCATE
+processed 100000 references
+processed 200000 references
+processed 300000 references
+processed 400000 references
+processed 500000 references
+processed 600000 references
+processed 700000 references
+processed 800000 references
+processed 900000 references
+processed 1000000 references
+*** CACHE STATISTICS ***
+  INSTRUCTIONS
+  accesses:  782764
+  misses:    5073
+  miss rate: 0.006481
+  replace:   5009
+  DATA
+  accesses:  217237
+  misses:    9940
+  miss rate: 0.045756
+  replace:   3637
+  TRAFFIC (in words)
+  demand fetch:  280768
+  copies back:   32287
+Cache Settings:
+	Split I- D-cache
+	I-cache size: 	8192
+	D-cache size: 	8192
+	Associativity: 	4
+	Block size: 	64
+	Write policy: 	WRITE BACK
+	Allocation policy: 	WRITE ALLOCATE
+processed 100000 references
+processed 200000 references
+processed 300000 references
+processed 400000 references
+processed 500000 references
+processed 600000 references
+processed 700000 references
+processed 800000 references
+processed 900000 references
+processed 1000000 references
+*** CACHE STATISTICS ***
+  INSTRUCTIONS
+  accesses:  782764
+  misses:    6025
+  miss rate: 0.007697
+  replace:   5897
+  DATA
+  accesses:  217237
+  misses:    875
+  miss rate: 0.004028
+  replace:   747
+  TRAFFIC (in words)
+  demand fetch:  110400
+  copies back:   7296
+Cache Settings:
+	Split I- D-cache
+	I-cache size: 	8192
+	D-cache size: 	8192
+	Associativity: 	4
+	Block size: 	64
+	Write policy: 	WRITE BACK
+	Allocation policy: 	WRITE NO ALLOCATE
+processed 100000 references
+processed 200000 references
+processed 300000 references
+processed 400000 references
+processed 500000 references
+processed 600000 references
+processed 700000 references
+processed 800000 references
+processed 900000 references
+processed 1000000 references
+*** CACHE STATISTICS ***
+  INSTRUCTIONS
+  accesses:  782764
+  misses:    6025
+  miss rate: 0.007697
+  replace:   5897
+  DATA
+  accesses:  217237
+  misses:    5596
+  miss rate: 0.025760
+  replace:   553
+  TRAFFIC (in words)
+  demand fetch:  107296
+  copies back:   9219
+Cache Settings:
+	Split I- D-cache
+	I-cache size: 	16384
+	D-cache size: 	16384
+	Associativity: 	2
+	Block size: 	64
+	Write policy: 	WRITE BACK
+	Allocation policy: 	WRITE ALLOCATE
+processed 100000 references
+processed 200000 references
+processed 300000 references
+processed 400000 references
+processed 500000 references
+processed 600000 references
+processed 700000 references
+processed 800000 references
+processed 900000 references
+processed 1000000 references
+*** CACHE STATISTICS ***
+  INSTRUCTIONS
+  accesses:  782764
+  misses:    3006
+  miss rate: 0.003840
+  replace:   2750
+  DATA
+  accesses:  217237
+  misses:    735
+  miss rate: 0.003383
+  replace:   500
+  TRAFFIC (in words)
+  demand fetch:  59856
+  copies back:   6208
+Cache Settings:
+	Split I- D-cache
+	I-cache size: 	16384
+	D-cache size: 	16384
+	Associativity: 	2
+	Block size: 	64
+	Write policy: 	WRITE BACK
+	Allocation policy: 	WRITE NO ALLOCATE
+processed 100000 references
+processed 200000 references
+processed 300000 references
+processed 400000 references
+processed 500000 references
+processed 600000 references
+processed 700000 references
+processed 800000 references
+processed 900000 references
+processed 1000000 references
+*** CACHE STATISTICS ***
+  INSTRUCTIONS
+  accesses:  782764
+  misses:    3006
+  miss rate: 0.003840
+  replace:   2750
+  DATA
+  accesses:  217237
+  misses:    5449
+  miss rate: 0.025083
+  replace:   324
+  TRAFFIC (in words)
+  demand fetch:  57008
+  copies back:   8252

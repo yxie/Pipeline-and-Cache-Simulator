@@ -1,5 +1,5 @@
 # ENEE646-Pipeline-and-Cache-Simulator
-Project for ENEE646 Digital Computer Design course at UMD. Did all programming in C language under Linux.
+Projects for ENEE646 Digital Computer Design course at UMD. Did all programming in C language under Linux.
 
 ### Implement an in-order MIPS interger/floating points pipeline simulator (pa1)
 - Create a cycle-accurate simulator of an in-order MIPS processor that supports 32-bit integer and floating point operations
